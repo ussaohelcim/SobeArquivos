@@ -1,0 +1,23 @@
+{
+  "name": "sobearquivos",
+  "version": "0.5.0",
+  "description": "Servidor para subir arquivos direto da rede local",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ussaohelcim/SobeArquivos.git"
+  },
+  "author": "ussaohelcim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ussaohelcim/SobeArquivos/issues"
+  },
+  "homepage": "https://github.com/ussaohelcim/SobeArquivos#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}
